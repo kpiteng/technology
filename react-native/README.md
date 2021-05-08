@@ -36,5 +36,15 @@ Let's Start - React Native
   - [MobeX](https://mobx.js.org/installation.html, "MobeX") - MobeX | State Management
 - ##### Chat | Messaging
   - [Gifted Chat](https://www.npmjs.com/package/react-native-gifted-chat, "Gifted Chat")
+  - [Connectycube](https://connectycube.com/features/, "Connectycube") - Chat & Messaging
 - ##### Audio | Video | Calling
   - [Quickblox](https://docs.quickblox.com/docs/react-native-quick-start, "Quickblox")
+  - [Connectycube](https://connectycube.com/features/, "Connectycube") - Video Calling
+- ##### Storage
+  - [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging, "Firebase Cloud Messaging")
+- ##### Push Notification
+  - [Firebase In-App Messaging](https://firebase.google.com/docs/in-app-messaging, "Firebase In-App Messaging")
+- ##### Social Sign-In Integration
+  - [Google SignIn](https://github.com/react-native-google-signin/google-signin, "Google SignIn")
+  - [Facebook SignIn](https://github.com/facebookarchive/react-native-fbsdk, "Facebook SignIn")
+  - [Apple SignIn](https://github.com/invertase/react-native-apple-authentication, "Apple SignIn")
