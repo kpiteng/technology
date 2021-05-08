@@ -1,13 +1,12 @@
-===============
 Become Technology Expert 
-===============
+-----
 
 Explore our technology Stack, One place to start learning technology and become expert.
 
 About
 -----
 
-`KPITENG <https://www.kpiteng.com>`_ is leading web & mobile software developemnt company:
+KPITENG is leading web & mobile software developemnt company:
 
     [A] KPITENG - Technology Stack can answer following questions:
 
@@ -21,8 +20,6 @@ About
 
 Technogoy Stack
 ------------
-
-::
 
     React Native
     React JS
@@ -38,4 +35,4 @@ Technogoy Stack
 Official Website
 -------------
 
-KPITENG Official Website `KPITENG <http://kpiteng.com/>`_.
+KPITENG Official Website http://kpiteng.com/
