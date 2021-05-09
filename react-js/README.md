@@ -78,7 +78,8 @@ Let's Start - React JS
   - [Luxon React](https://moment.github.io/luxon/, "React Native Luxon")
   - [DayJS React](https://www.npmjs.com/package/dayjs, "React Nativ DayJS")
 - ##### React JWT | Cookies
-  - [Store JWT In Cookies](https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81, "Store JWT In Cookies")    
+  - [Authenticate | Store JWT In Cookies](https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81, "Authenticate | Store JWT In Cookies")
+  - [React Cookies](https://www.npmjs.com/package/react-cookies, "React Cookies")
 - ##### React Router
   - [Router](https://reactrouter.com/web/api/Router, "React Router")  
   - [Route](https://reactrouter.com/web/api/Route, "React Route")
