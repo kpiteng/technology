@@ -43,6 +43,7 @@ Let's Start - React JS
   - [useCallback](https://dmitripavlutin.com/dont-overuse-react-usecallback/, "React useCallback")
   - [useContext](https://medium.com/crowdbotics/how-to-use-usereducer-in-react-hooks-for-performance-optimization-ecafca9e7bf5, "React useContext")
   - [useCustomHooks](https://github.com/aromalanil/useCustomHooks/tree/master/docs#-usegeolocation, "useCustomHooks") - useLocalStorage | useForm | useStack | useQueue | useDebounce | useDarkMode | useToggle | useGeoLocation | usePrevious
+  - [React Useful Hooks](https://github.com/streamich/react-use, "Useful Hooks") Sensors | UI | Animations | Side-effects | Lifecycles | State | Miscellaneous Hooks
 - ##### Boilerplate | Template | Admin Template
   - [React CoreUI](https://coreui.io/, "CoreUI Free Bootstrap Admin Template")
   - [React Material UI](https://material-ui.com/getting-started/templates/, "React Templates - Material UI")
@@ -56,7 +57,39 @@ Let's Start - React JS
   - [GetBootstrap Component](https://getbootstrap.com/docs/5.0/getting-started/introduction/, "React Bootstrap Components")
   - [ANT Design](https://ant.design/components/overview/, "React ANT Design")
   - [FlatLogic](https://flatlogic.com/templates/react, "FlatLogic Templates and Themes")
-
+  - [React Table](https://react-table.tanstack.com/docs/quick-start, "React Table")
+ - ##### Utility 
+   - [React Array](https://eduardstankovic.medium.com/javascript-array-functions-you-need-to-know-pt-1-4d73291fdfac, "React Array")
+- ##### Store | State Management
+  - [Rematch](https://rematchjs.org/, "Rematch") - Redux Rematch
+  - [Redux Saga](https://redux-saga.js.org/, "Redux Saga") - Redux Saga
+  - [Redux](https://redux.js.org/, "Redux") - Redux
+- ##### Formik docs
+  - [React FORMIK docs](https://formik.org/, "React FORMIK docs")
+  - [Redux Form](https://github.com/redux-form/redux-form, "Redux Form")
+  - [React Hook Form](https://react-hook-form.com/, "React Hook Form")
+- ##### APIs Integration
+  - [React Axios API](https://www.npmjs.com/package/axios, "React Axios API")
+  - [React Apisauce](https://www.npmjs.com/package/apisauce, "React Apisauce")
+  - [React AJAX and APIs](https://reactjs.org/docs/faq-ajax.html, "React AJAX and APIs")
+ - ##### Date & Time | Timezone
+   - [Moment](https://momentjs.com/timezone/, "Moment Timezone")
+   - [Date FNS React Native](https://date-fns.org/, "React Native Date FNS")
+   - [Luxon React](https://moment.github.io/luxon/, "React Native Luxon")
+   - [DayJS React](https://www.npmjs.com/package/dayjs, "React Nativ DayJS")
+- ##### React Router
+  - [Router](https://reactrouter.com/web/api/Router, "React Router")  
+  - [Route](https://reactrouter.com/web/api/Route, "React Route")
+  - [Switch](https://reactrouter.com/web/api/Switch, "React Switch")
+  - [Redirect](https://reactrouter.com/web/api/Redirect, "React Redirect")
+  - [Link](https://reactrouter.com/web/api/Link, "React Link")
+  - [BrowserRouter](https://reactrouter.com/web/api/BrowserRouter, "React BrowserRoute")
+  - [HashRouter](https://reactrouter.com/web/api/HashRouter, "React HashRouter")
+  - [NavLink](https://reactrouter.com/web/api/NavLink, "React NavLink")
+  - [React Router Hooks](https://reactrouter.com/web/api/Hooks, "React Router Hooks") - useHistory, useLocation, useParams, useRouteMatch
+- ##### React File Upload | AWS S3 Upload
+  - [React Dropzone](https://www.npmjs.com/package/react-dropzone, "React Dropzone")
+  
 Connect Us
 ----- 
 KPITENG - Digital Transformation 
