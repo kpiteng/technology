@@ -113,6 +113,11 @@ Let's Start - React Native
   - [React Native Firebase Crashlytics](https://rnfirebase.io/crashlytics/usage, "Firebase Crashytics React Native")
 - ##### React Native Rate
   - [React Native Rate](https://www.npmjs.com/package/react-native-rate, "React Native Rate View")
-Connect US -
--------------
-KPITENG | Digital Transformation | [https://kpiteng.com](https://kpiteng.com)
+
+Connect Us
+----- 
+KPITENG - Digital Transformation 
+- Website [www.kpiteng.com](https://kpiteng.com)
+- Email Us: hello@kpiteng.com
+- [Follow us on Instagram](https://www.instagram.com/kpiteng/)
+- [Follow us on Linkedin](https://www.linkedin.com/company/kpiteng/)
