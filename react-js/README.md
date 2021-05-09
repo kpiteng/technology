@@ -89,7 +89,9 @@ Let's Start - React JS
   - [React Router Hooks](https://reactrouter.com/web/api/Hooks, "React Router Hooks") - useHistory, useLocation, useParams, useRouteMatch
 - ##### React File Upload | AWS S3 Upload
   - [React Dropzone](https://www.npmjs.com/package/react-dropzone, "React Dropzone")
-  
+- ##### React JS Video Playlist
+  - [Material UI](https://www.youtube.com/watch?v=0KEpWHtG10M&list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58,  "Material UI") - Then Net Ninja
+
 Connect Us
 ----- 
 KPITENG - Digital Transformation 
