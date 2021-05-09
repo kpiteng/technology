@@ -113,7 +113,8 @@ Let's Start - React Native
   - [React Native Firebase Crashlytics](https://rnfirebase.io/crashlytics/usage, "Firebase Crashytics React Native")
 - ##### React Native Rate
   - [React Native Rate](https://www.npmjs.com/package/react-native-rate, "React Native Rate View")
-
+- ##### React Native Modules | iOS & Android Native UI/Business Logic
+  - [React Native Modules](https://reactnative.dev/docs/native-modules-intro, "React Native Modules")
 Connect Us
 ----- 
 KPITENG - Digital Transformation 
