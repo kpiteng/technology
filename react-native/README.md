@@ -21,8 +21,9 @@ Let's Start - React Native
   - [React Native Fundamentals](https://reactnative.dev/docs/intro-react "Ract Native Official Website") - React Native Official Website
 - ##### Installation
   - [React Native Installation](https://reactnative.dev/docs/environment-setup "Ract Native Official Website") - React Native CLI - Quick Start
-- ##### React Native Component
+- ##### React Native Component | Lifecycle
   - [Core Components and APIs](https://reactnative.dev/docs/components-and-apis, "React Native Core Components and APIs") - React Native Official Website
+  - [Component Lifecycle](https://www.netguru.com/codestories/react-native-lifecycle, "React Native Component Lifecycle")
 - ##### React Native UI Kit | React Native Component Library
   - [React Native Paper](https://reactnativepaper.com/, "Making your React Native apps look and feel native") - Making your React Native apps look and feel native
   - [NativeBase React Native](https://nativebase.io/, "Essential cross-platform UI compoenent") - Essential cross-platform UI compoenent
@@ -33,6 +34,7 @@ Let's Start - React Native
   - [WIX RNUILib](https://wix.github.io/react-native-ui-lib/, "WIX RNUILib - React Native UILib")
   - [Lottie Animation React Native](https://airbnb.io/lottie/#/, "Lottie Animation React Native")
   - [React Native Vector Icons](https://oblador.github.io/react-native-vector-icons/, "React Native Vector Icons")
+  - [Storybook](https://storybook.js.org/tutorials/intro-to-storybook/react-native/en/get-started/, "React Native Storybook") - Build UI Component Faster
 - ##### Boilerplate
   - [IgniteCLI](https://github.com/infinitered/ignite, "IgniteCLI")
 - ##### React Native Splash Screen
@@ -57,6 +59,8 @@ Let's Start - React Native
    - [React Native Video Player](https://www.npmjs.com/package/react-native-video-player, "React Native Video Player")
    - [React Native Create Thumbnail](https://www.npmjs.com/package/react-native-create-thumbnail, "React Native Create Thumbnail")
    - [React Native Youtube Player](https://www.npmjs.com/package/react-native-youtube, "React Native Youtube Player")
+- ##### Smart Coding | TIPS
+  - [21 Best Practice for a Clean React Project](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb, "21 Best Practice for a Clean React Project")
 - ##### Maps & Navigation | GeoCoding | GeoLocation
   - [React Native Maps](https://github.com/react-native-maps/react-native-maps, "React Native Maps") - MapView | Marker | Callout | Ploygon | Polyline | Circle | Overlay | Heatmap | Geojson 
   - [React Native GeoCoding](https://www.npmjs.com/package/react-native-geocoding, "React Native GeoCoding")
@@ -80,9 +84,12 @@ Let's Start - React Native
   - [React Native AWS3](https://www.npmjs.com/package/react-native-aws3, "React Native AWS3 Upload")
 - ##### Push Notification
   - [Firebase In-App Messaging](https://firebase.google.com/docs/in-app-messaging, "Firebase In-App Messaging")
+- ##### React Native Net Info | Internet Connection
+  - [React Native Net Info](https://medium.com/@mks_01/how-to-handle-react-native-network-error-using-hooks-ab1be5898e54, "React Native Net Info")
 - ##### Localisation || Internationlisation
   - [React Native i18N](https://www.npmjs.com/package/react-native-i18n, "React Native i18N")
   - [React Native Localize](https://www.npmjs.com/package/react-native-localize, "React Native Localize")
+  - [React Native LTR | RTL - Arabic Localisation](https://medium.com/@p.nasirimehr/adding-rtl-support-to-an-existing-react-native-app-in-2020-3264d035cb49, "React Native LTR | RTL - Arabic Localisation")
 - ##### Social Sign-In Integration
   - [Google SignIn](https://github.com/react-native-google-signin/google-signin, "Google SignIn")
   - [Facebook SignIn](https://github.com/facebookarchive/react-native-fbsdk, "Facebook SignIn")
@@ -116,6 +123,18 @@ Let's Start - React Native
 - ##### React Native Modules | iOS & Android Native UI/Business Logic
   - [React Native Modules](https://reactnative.dev/docs/native-modules-intro, "React Native Modules")
 Connect Us
+- ##### CI/CD | React Native
+  - [Visual Studio App Center SDK for React Native](https://github.com/Microsoft/appcenter-sdk-react-native, "Visual Studio App Center SDK for React Native")
+- ##### Advance Concept
+  - [React Native for Web](https://necolas.github.io/react-native-web/docs/multi-platform/, "React Native for Web") 
+- ##### Security | TIPS 
+  - [Android Tapjacking](https://stackoverflow.com/questions/57555952/prevent-partial-tapjacking-android, "Android Tapjacking")
+  - [Hide Sensitive Information iOS App Switcher](https://hacknicity.medium.com/hide-sensitive-information-in-the-ios-app-switcher-snapshot-image-25ddc9b8ef5f, "Hide Sensitive Information iOS App Switcher")
+  - [Android Rooted Phone Identification | Restriction](https://github.com/scottyab/rootbeer, "Android Rooted Phone Identification | Restriction")
+  - [iOS Jailbroken Phone Identification | Restriction](https://developerinsider.co/best-way-to-check-if-your-ios-app-is-running-on-a-jailbroken-phone/, "iOS Jailbroken Phone Identification | Restriction")
+  - [iOS Screenshot Restriction](https://screenshieldkit.com/, "Protect iOS app from screenshots")
+  - [Android - Prevent Users From Taking Screenshots](https://www.netguru.com/codestories/prevent-screenshots-react-native, "Android - Prevent Users From Taking Screenshots")
+
 ----- 
 KPITENG - Digital Transformation 
 - Website [www.kpiteng.com](https://kpiteng.com)
