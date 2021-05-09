@@ -13,7 +13,7 @@ KPITENG is leading web & mobile software developemnt company | Technology Stack 
 
 Technogoy Stack
 ------------
-- React Native
+- [React Native](./react-native)
 - React JS
 - Node JS
 - iOS | Swift | Objective-C
