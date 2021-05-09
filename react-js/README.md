@@ -72,11 +72,13 @@ Let's Start - React JS
   - [React Axios API](https://www.npmjs.com/package/axios, "React Axios API")
   - [React Apisauce](https://www.npmjs.com/package/apisauce, "React Apisauce")
   - [React AJAX and APIs](https://reactjs.org/docs/faq-ajax.html, "React AJAX and APIs")
- - ##### Date & Time | Timezone
-   - [Moment](https://momentjs.com/timezone/, "Moment Timezone")
-   - [Date FNS React Native](https://date-fns.org/, "React Native Date FNS")
-   - [Luxon React](https://moment.github.io/luxon/, "React Native Luxon")
-   - [DayJS React](https://www.npmjs.com/package/dayjs, "React Nativ DayJS")
+- ##### Date & Time | Timezone
+  - [Moment](https://momentjs.com/timezone/, "Moment Timezone")
+  - [Date FNS React Native](https://date-fns.org/, "React Native Date FNS")
+  - [Luxon React](https://moment.github.io/luxon/, "React Native Luxon")
+  - [DayJS React](https://www.npmjs.com/package/dayjs, "React Nativ DayJS")
+- ##### React JWT | Cookies
+  - [Store JWT In Cookies](https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81, "Store JWT In Cookies")    
 - ##### React Router
   - [Router](https://reactrouter.com/web/api/Router, "React Router")  
   - [Route](https://reactrouter.com/web/api/Route, "React Route")
