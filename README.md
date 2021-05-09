@@ -14,7 +14,7 @@ KPITENG is leading web & mobile software developemnt company | Technology Stack 
 Technogoy Stack
 ------------
 - [React Native](./react-native)
-- React JS
+- [React JS](./react-js)
 - Node JS
 - iOS | Swift | Objective-C
 - Android | Kotlin
@@ -24,8 +24,12 @@ Technogoy Stack
 - AR/VR 
 
 
-Connect Us - Official Website
--------------
-KPITENG Official [Website](https://kpiteng.com)
+Connect Us
+----- 
+KPITENG - Digital Transformation 
+- Website [www.kpiteng.com](https://kpiteng.com)
+- Email [hello@kpiteng.com](hello@kpiteng.com)
+- [Follow us on Instagram](https://www.instagram.com/kpiteng/)
+- [Follow us on Linkedin](https://www.linkedin.com/company/kpiteng/)
 
 License: [MIT](./LICENSE)
