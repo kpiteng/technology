@@ -27,3 +27,5 @@ Technogoy Stack
 Connect Us - Official Website
 -------------
 KPITENG Official [Website](https://kpiteng.com)
+
+License: [MIT](./LICENSE)
