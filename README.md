@@ -28,7 +28,7 @@ Connect Us
 ----- 
 KPITENG - Digital Transformation 
 - Website [www.kpiteng.com](https://kpiteng.com)
-- Email [hello@kpiteng.com](hello@kpiteng.com)
+- Email Us: hello@kpiteng.com
 - [Follow us on Instagram](https://www.instagram.com/kpiteng/)
 - [Follow us on Linkedin](https://www.linkedin.com/company/kpiteng/)
 
