@@ -51,6 +51,7 @@ Let's Start - React JS
   - [React Creative Tim](https://www.creative-tim.com/product/material-dashboard-react?partner=104080 "React Creative Tim")
   - [React Reduction](https://github.com/reduction-admin/react-reduction "React Reduction")
   - [ReactJS AdminLTE](https://github.com/booleanhunter/ReactJS-AdminLTE "ReactJS AdminLTE")
+  - [React Clean Architecture](https://github.com/progressive-dev/essential-todos "React Clean Architecture || Redux Hooks || ToDo Sample Application")
 - ##### React JS Components
   - [ReactStrap](https://reactstrap.github.io/ "RactStrap")
   - [React Bootstrap](https://react-bootstrap.github.io/components/alerts "React Bootstrap")
